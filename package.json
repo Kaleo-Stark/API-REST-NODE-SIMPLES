@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-node-simples",
+  "version": "1.0.0",
+  "description": "Uma API simples utilizando NodeJS, um código básico para consulta.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaleo-Stark/API-REST-NODE-SIMPLES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaleo-Stark/API-REST-NODE-SIMPLES/issues"
+  },
+  "homepage": "https://github.com/Kaleo-Stark/API-REST-NODE-SIMPLES#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
